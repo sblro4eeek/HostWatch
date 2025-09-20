@@ -140,6 +140,6 @@ RUST_LOG=tower_http=info,hostwatch=debug cargo run
 
 ---
 
-## 📜 License
+## 📜 Лицензия
 
 [MIT](https://opensource.org/licenses/MIT)
